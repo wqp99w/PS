@@ -20,5 +20,7 @@ int main() {
 	sum = sum + a*100 * a5;
 	cout << sum;
 	
+
+
 	
 }
