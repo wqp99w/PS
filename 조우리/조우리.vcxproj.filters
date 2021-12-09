@@ -22,6 +22,9 @@
     <Filter Include="리소스 파일\시도">
       <UniqueIdentifier>{b7526e78-9f80-4cb3-81f9-01aab759cf65}</UniqueIdentifier>
     </Filter>
+    <Filter Include="리소스 파일\Basic\for문">
+      <UniqueIdentifier>{e3b0dfc3-d051-47ca-888f-2a63f3f015a3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1330.cpp">
@@ -47,6 +50,24 @@
     </ClCompile>
     <ClCompile Include="2884.cpp">
       <Filter>리소스 파일\Basic\if문</Filter>
+    </ClCompile>
+    <ClCompile Include="2739.cpp">
+      <Filter>리소스 파일\Basic\for문</Filter>
+    </ClCompile>
+    <ClCompile Include="10950.cpp">
+      <Filter>리소스 파일\Basic\for문</Filter>
+    </ClCompile>
+    <ClCompile Include="8393.cpp">
+      <Filter>리소스 파일\Basic\for문</Filter>
+    </ClCompile>
+    <ClCompile Include="15552.cpp">
+      <Filter>리소스 파일\Basic\for문</Filter>
+    </ClCompile>
+    <ClCompile Include="2741.cpp">
+      <Filter>리소스 파일\Basic\for문</Filter>
+    </ClCompile>
+    <ClCompile Include="2742.cpp">
+      <Filter>리소스 파일\Basic\for문</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
