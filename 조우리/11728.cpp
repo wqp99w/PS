@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
@@ -21,13 +22,13 @@ int compare(const void* a, const void* b)    // 오름차순 비교 함수 구현
 }
 int main() {
 	int n, k,i;
-	scanf_s("%d%d", &n, &k);
+	scanf("%d%d", &n, &k);
 
 	for (i = 0;i < n;i++) {
-		scanf_s("%d", &arr1[i]);
+		scanf("%d", &arr1[i]);
 	}
 	for (i = n;i <n + k;i++) {
-		scanf_s("%d", &arr1[i]);
+		scanf("%d", &arr1[i]);
 	}
 	qsort(arr1, n+k, sizeof(int), compare);
 	for (i = 0;i < n + k;i++) {

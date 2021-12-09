@@ -16,19 +16,37 @@
     <Filter Include="리소스 파일\Basic">
       <UniqueIdentifier>{08319f17-eaed-4839-9403-4c0a9ae57784}</UniqueIdentifier>
     </Filter>
+    <Filter Include="리소스 파일\Basic\if문">
+      <UniqueIdentifier>{5f514876-26f6-431d-86e3-350f5655e2e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\시도">
+      <UniqueIdentifier>{b7526e78-9f80-4cb3-81f9-01aab759cf65}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="소스.cpp">
-      <Filter>리소스 파일\Basic</Filter>
-    </ClCompile>
     <ClCompile Include="1330.cpp">
-      <Filter>리소스 파일\Basic</Filter>
+      <Filter>리소스 파일\Basic\if문</Filter>
     </ClCompile>
-    <ClCompile Include="2559.cpp">
-      <Filter>리소스 파일\Basic</Filter>
+    <ClCompile Include="9498.cpp">
+      <Filter>리소스 파일\Basic\if문</Filter>
+    </ClCompile>
+    <ClCompile Include="2753.cpp">
+      <Filter>리소스 파일\Basic\if문</Filter>
+    </ClCompile>
+    <ClCompile Include="14681.cpp">
+      <Filter>리소스 파일\Basic\if문</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
+      <Filter>리소스 파일\시도</Filter>
     </ClCompile>
     <ClCompile Include="11728.cpp">
-      <Filter>리소스 파일\Basic</Filter>
+      <Filter>리소스 파일\시도</Filter>
+    </ClCompile>
+    <ClCompile Include="2559.cpp">
+      <Filter>리소스 파일\시도</Filter>
+    </ClCompile>
+    <ClCompile Include="2884.cpp">
+      <Filter>리소스 파일\Basic\if문</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
