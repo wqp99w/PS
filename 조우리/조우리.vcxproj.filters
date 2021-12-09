@@ -13,10 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="리소스 파일\Basic">
+      <UniqueIdentifier>{08319f17-eaed-4839-9403-4c0a9ae57784}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="소스.cpp">
-      <Filter>리소스 파일</Filter>
+      <Filter>리소스 파일\Basic</Filter>
+    </ClCompile>
+    <ClCompile Include="1330.cpp">
+      <Filter>리소스 파일\Basic</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
